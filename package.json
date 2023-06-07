@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "dependencies": {
-    "bitcoinjs-lib": "^6.1.1",
+    "bitcoinjs-lib": "6.1.2",
     "ecpair": "^2.1.0",
     "tiny-secp256k1": "^2.2.2"
   }
